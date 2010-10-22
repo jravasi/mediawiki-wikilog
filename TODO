@@ -1,0 +1,7 @@
+== Wikilog To-do list ==
+
+=== Wikilog 1.3.0. ===
+
+* Drop support for Mw 1.16 and earlier.
+* Remove Mw1.16 compatibility boilerplate in:
+  - WikilogFeed::loadFromCache() (bug 21916).

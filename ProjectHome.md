@@ -1,0 +1,3 @@
+Wikilog enhances MediaWiki with some common blogging features, making it a wiki-blog hybrid.  There are many names that are used to represent this concept: _wikilog_, _wikiblog_, _bliki_, etc. (see Bliki article on Wikipedia).
+
+The philosophy of Wikilog is not to just make a blog out of a wiki, but to combine both concepts.  Unlike most blogs, wikilog articles can be collaboratively written and published by multiple users.  Talk pages of wikilog articles provide a simpler interface for commenting than standard MediaWiki talk pages; it is similar to most blog software, with the addition of discussion threading.
